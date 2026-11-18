@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/fondos/fondo_quiebra.png</file>
+        <file>assets/sprites/ki.png</file>
+        <file>assets/sprites/lampara.png</file>
+        <file>assets/sprites/roca.png</file>
+        <file>assets/sprites/vegeta_idle.png</file>
+        <file>assets/sprites/vegeta_run.png</file>
+        <file>assets/fondos/comic_nivel1.jpg</file>
+        <file>assets/fondos/FONDO NIVEL 2.jpg</file>
+    </qresource>
+</RCC>
